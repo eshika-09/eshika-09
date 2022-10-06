@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eshika Goyal</h1>
 <h3 align="center">Ambitious student pursuing computer science degree, eager to contribute developed knowledge in professional world. Strong in design and integration with intuitive problem-solving skills. Skilled in C, C++ and Front-end development. Passionate about implementing and launching new projects also a self-motivated engineer specialized in Internet of Things with keen interest in coding. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshika-09&label=Profile%20views&color=0e75b6&style=flat" alt="eshika-09" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@eshikagoyal" target="blank"><img src="https://img.shields.io/twitter/follow/@eshikagoyal?logo=twitter&style=for-the-badge" alt="@eshikagoyal" /></a> </p>
-
 - 🔭 I’m currently working on [Steganography](https://github.com/eshika-09/Steganography-Web-application)
 
 - 🌱 I’m currently learning **C++, C#, Asp.Net Framework and DSA Algorithms**
@@ -25,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshika-09&show_icons=true&locale=en&layout=compact" alt="eshika-09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshika-09&show_icons=true&locale=en" alt="eshika-09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshika-09&" alt="eshika-09" /></p>
